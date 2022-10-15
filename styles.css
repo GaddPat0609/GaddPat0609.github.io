@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    color:blanchedalmond
+
+}
+.wrapper h1{
+    text-align: center;
+font-size: 30px;
+
+}
+
+.img-galle{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.g-img{
+    padding: 0 20px 20px;
+}
+.card{
+    padding: 0 20px 20px;
+}
+
+img:hover{
+    opacity: .8;
+    transition: ;
+}
